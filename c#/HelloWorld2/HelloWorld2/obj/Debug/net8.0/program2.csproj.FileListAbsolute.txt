@@ -1,0 +1,15 @@
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\bin\Debug\net8.0\program2.exe
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\bin\Debug\net8.0\program2.deps.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\bin\Debug\net8.0\program2.runtimeconfig.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\bin\Debug\net8.0\program2.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\bin\Debug\net8.0\program2.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\program2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\program2.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\program2.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\program2.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\program2.sourcelink.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\program2.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\refint\program2.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\program2.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\program2.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\HelloWorld2\HelloWorld2\obj\Debug\net8.0\ref\program2.dll

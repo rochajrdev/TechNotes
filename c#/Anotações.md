@@ -213,4 +213,164 @@ class Pessoa
 
 Essa classe **Pessoa** tem dois atributos (`Nome` e `Idade`) e um método (`Apresentar`).
 
+# Modificadores de Acesso em C#
 
+Em **C#**, os **modificadores de acesso** são palavras-chave que determinam a visibilidade e o nível de acesso a membros de uma classe, como **propriedades**, **métodos**, **campos** e **eventos**. Eles controlam de onde um membro pode ser acessado dentro de seu código.
+
+## O que são Classes em C#?
+
+Uma **classe** em C# é uma estrutura que define um tipo de dado customizado. Ela pode conter:
+
+- **Campos** (variáveis)
+- **Propriedades**
+- **Métodos**
+- **Eventos**
+- **Construtores**
+
+Uma classe serve como **modelo** ou **molde** para criar objetos. Quando um objeto é criado a partir de uma classe, ele é conhecido como uma **instância** da classe.
+
+Exemplo de uma classe simples:
+
+```csharp
+public class Carro
+{
+    public string Modelo { get; set; }
+    private int velocidadeMaxima;
+
+    public Carro(string modelo, int velocidadeMaxima)
+    {
+        Modelo = modelo;
+        this.velocidadeMaxima = velocidadeMaxima;
+    }
+
+    public void Acelerar()
+    {
+        Console.WriteLine("Acelerando o carro...");
+    }
+
+    private void AjustarVelocidadeMaxima(int novaVelocidade)
+    {
+        velocidadeMaxima = novaVelocidade;
+    }
+}
+```
+
+# Membros de uma Classe
+
+- **Campos**: Variáveis internas de uma classe, usadas para armazenar dados.
+- **Propriedades**: Métodos especiais usados para acessar ou modificar os valores dos campos de uma classe. Elas atuam como uma combinação entre um campo e um método.
+- **Métodos**: Funções que realizam ações ou operações. São usados para definir o comportamento de uma classe.
+- **Construtores**: Métodos especiais usados para inicializar objetos de uma classe. O construtor é chamado quando um novo objeto é criado.
+
+---
+
+# Modificadores de Acesso em C#
+
+Existem cinco principais modificadores de acesso em C#:
+
+### 1. `public`
+- **Definição**: Membros públicos podem ser acessados de qualquer lugar, seja de dentro ou fora da classe ou do assembly.
+- **Uso**: Quando você deseja que um membro ou classe seja acessível em qualquer parte do seu código.
+
+#### Exemplo:
+
+```csharp
+public class Carro
+{
+    public string Modelo { get; set; }  // Pode ser acessado de qualquer lugar
+}
+```
+
+### 2. `private`
+- **Definição**: Membros privados só podem ser acessados dentro da própria **classe** ou **struct** onde foram definidos.
+- **Uso**: Usado para garantir que a lógica interna de uma classe não seja acessada ou modificada diretamente.
+
+#### Exemplo:
+
+```csharp
+public class Carro
+{
+    private int velocidadeMaxima;  // Só pode ser acessado dentro da classe Carro
+
+    public Carro(int velocidadeMaxima)
+    {
+        this.velocidadeMaxima = velocidadeMaxima;
+    }
+}
+```
+### 3. `protected`
+- **Definição**: Membros protegidos podem ser acessados pela própria **classe** e por qualquer **classe derivada** (subclasse).
+- **Uso**: Usado quando se deseja que membros sejam acessíveis por subclasses, mas não por código fora da hierarquia de classes.
+
+#### Exemplo:
+
+```csharp
+public class Carro
+{
+    protected int velocidadeMaxima;
+
+    public Carro(int velocidadeMaxima)
+    {
+        this.velocidadeMaxima = velocidadeMaxima;
+    }
+}
+
+public class CarroEsportivo : Carro
+{
+    public CarroEsportivo(int velocidadeMaxima) : base(velocidadeMaxima)
+    {
+        // Acessa o campo protegido da classe base
+        Console.WriteLine(velocidadeMaxima);
+    }
+}
+```
+
+### 4. `internal`
+- **Definição**: Membros internos são acessíveis apenas dentro do mesmo **assembly** (projeto).
+- **Uso**: Usado quando você quer limitar o acesso a membros dentro de um único assembly, mas não se importa com a visibilidade em todas as classes dentro do projeto.
+
+#### Exemplo:
+
+```csharp
+public class Carro
+{
+    internal string Modelo { get; set; }  // Só pode ser acessado dentro do mesmo assembly
+}
+```
+
+### 5. `protected internal`
+- **Definição**: Membros protegidos internos podem ser acessados dentro do mesmo **assembly** ou em **classes derivadas** (subclasses), tanto no mesmo assembly quanto em outros assemblies.
+- **Uso**: Quando você quer que membros sejam acessíveis em subclasses ou no mesmo assembly.
+
+#### Exemplo:
+
+```csharp
+public class Carro
+{
+    protected internal int velocidadeMaxima;
+}
+```
+
+### 6. `private protected`
+- **Definição**: Membros privados protegidos podem ser acessados somente dentro da própria **classe** ou em **subclasses**, mas somente dentro do mesmo **assembly**.
+- **Uso**: Combinado entre privado e protegido, limitando o acesso a classes dentro do mesmo assembly e em subclasses.
+
+#### Exemplo:
+
+```csharp
+public class Carro
+{
+    private protected int velocidadeMaxima;
+}
+```
+
+### Resumo
+
+- **public**: Acessível em qualquer lugar.
+- **private**: Acessível apenas dentro da classe.
+- **protected**: Acessível dentro da classe e em classes derivadas.
+- **internal**: Acessível dentro do mesmo assembly.
+- **protected internal**: Acessível no mesmo assembly e em classes derivadas.
+- **private protected**: Acessível dentro da classe e em classes derivadas, mas no mesmo assembly.
+
+Esses modificadores de acesso ajudam a controlar a visibilidade dos membros da classe, garantindo **encapsulamento** e mantendo a integridade da lógica interna de suas classes.
