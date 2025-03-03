@@ -1,0 +1,15 @@
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\OutrosTiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\OutrosTiposDeDados.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\OutrosTiposDeDados.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\OutrosTiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\OutrosTiposDeDados.sourcelink.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\bin\Debug\net8.0\OutrosTiposDeDados.exe
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\bin\Debug\net8.0\OutrosTiposDeDados.deps.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\bin\Debug\net8.0\OutrosTiposDeDados.runtimeconfig.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\bin\Debug\net8.0\OutrosTiposDeDados.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\bin\Debug\net8.0\OutrosTiposDeDados.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\OutrosTiposDeDados.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\refint\OutrosTiposDeDados.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\OutrosTiposDeDados.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\OutrosTiposDeDados.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\OutrosTiposDeDados\OutrosTiposDeDados\obj\Debug\net8.0\ref\OutrosTiposDeDados.dll
