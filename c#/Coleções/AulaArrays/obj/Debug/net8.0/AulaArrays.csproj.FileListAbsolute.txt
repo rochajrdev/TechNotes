@@ -1,0 +1,15 @@
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\bin\Debug\net8.0\AulaArrays.exe
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\bin\Debug\net8.0\AulaArrays.deps.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\bin\Debug\net8.0\AulaArrays.runtimeconfig.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\bin\Debug\net8.0\AulaArrays.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\bin\Debug\net8.0\AulaArrays.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\AulaArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\AulaArrays.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\AulaArrays.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\AulaArrays.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\AulaArrays.sourcelink.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\AulaArrays.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\refint\AulaArrays.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\AulaArrays.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\AulaArrays.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\AulaArrays\AulaArrays\obj\Debug\net8.0\ref\AulaArrays.dll
