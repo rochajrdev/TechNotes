@@ -374,3 +374,7 @@ public class Carro
 - **private protected**: Acessível dentro da classe e em classes derivadas, mas no mesmo assembly.
 
 Esses modificadores de acesso ajudam a controlar a visibilidade dos membros da classe, garantindo **encapsulamento** e mantendo a integridade da lógica interna de suas classes.
+
+# Tipos numéricos
+
+Existem dois grupos principais: os inteiros e os de ponto flutuante. Os inteiros são números sem casas decimais, como 0, 1, 2, etc. Já os de ponto flutuante são números com casas decimais, como 1.5, 1.7, 3.14, etc. No Visual Studio, podemos declarar variáveis numéricas utilizando os tipos int e long para inteiros, e double, float e decimal para ponto flutuante. Cada tipo tem um intervalo e precisão diferentes. É importante lembrar que ao atribuir valores literais, é necessário indicar o tipo correto, como colocar F para float e M para decimal. Além disso, podemos utilizar o underline para facilitar a leitura de números grandes.

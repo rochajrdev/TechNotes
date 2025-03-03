@@ -1,0 +1,15 @@
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\bin\Debug\net8.0\TiposNumericos.exe
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\bin\Debug\net8.0\TiposNumericos.deps.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\bin\Debug\net8.0\TiposNumericos.runtimeconfig.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\bin\Debug\net8.0\TiposNumericos.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\bin\Debug\net8.0\TiposNumericos.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\TiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\TiposNumericos.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\TiposNumericos.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\TiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\TiposNumericos.sourcelink.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\TiposNumericos.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\refint\TiposNumericos.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\TiposNumericos.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\TiposNumericos.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposNumericos\TiposNumericos\obj\Debug\net8.0\ref\TiposNumericos.dll

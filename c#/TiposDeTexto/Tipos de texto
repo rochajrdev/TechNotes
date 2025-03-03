@@ -1,0 +1,205 @@
+# Tipos de Texto em C#
+
+## **O que são tipos de texto?**
+Os **tipos de texto** em C# são usados para armazenar e manipular caracteres e cadeias de caracteres (strings). Os principais tipos são:
+- `char` → Representa **um único caractere**.
+- `string` → Representa **uma sequência de caracteres (texto)**.
+
+---
+
+## **Tabela de Tipos de Texto**
+| Tipo    | Tamanho | O que armazena?       | Exemplo |
+|---------|---------|----------------------|---------|
+| `char`  | 2 bytes | Um único caractere   | `'A'`, `'9'`, `'#'` |
+| `string` | Depende do tamanho do texto | Uma sequência de caracteres | `"Olá, mundo!"` |
+
+---
+
+## **1. Tipo `char` (Caractere Único)**
+- O tipo `char` armazena **apenas um caractere** e deve ser colocado entre aspas simples (`'`).
+- Ele pode armazenar letras, números ou símbolos especiais.
+
+### **Exemplo:**
+```csharp
+char letra = 'A';
+char numero = '9';
+char simbolo = '#';
+
+Console.WriteLine(letra);   // Saída: A
+Console.WriteLine(numero);  // Saída: 9
+Console.WriteLine(simbolo); // Saída: #
+```
+
+## 2. Tipo `string` (Texto)
+
+O tipo `string` é uma **sequência de caracteres** e é colocado entre aspas duplas (`"`).  
+Pode conter **palavras, frases ou qualquer sequência de caracteres**.
+
+### **Exemplo:**
+```csharp
+string mensagem = "Olá, mundo!";
+string nome = "Adailson";
+string frase = "C# é uma ótima linguagem!";
+
+Console.WriteLine(mensagem); // Saída: Olá, mundo!
+Console.WriteLine(nome);     // Saída: Adailson
+Console.WriteLine(frase);    // Saída: C# é uma ótima linguagem!
+```
+## 3. Manipulação de Strings
+
+O C# oferece várias formas de **trabalhar com strings**, como:
+
+- **Concatenação** → Juntar textos
+- **Interpolação** → Inserir variáveis dentro do texto
+- **Obter tamanho da string** → `Length`
+- **Transformar para maiúsculas ou minúsculas** → `ToUpper()`, `ToLower()`
+
+### **Exemplos:**
+```csharp
+// Concatenação
+string nome = "Maria";
+string saudacao = "Olá, " + nome + "!";
+Console.WriteLine(saudacao);  // Saída: Olá, Maria!
+
+// Interpolação de strings
+string cidade = "Aracaju";
+Console.WriteLine($"Eu moro em {cidade}.");  // Saída: Eu moro em Aracaju.
+
+// Tamanho da string
+string texto = "C# é incrível!";
+Console.WriteLine(texto.Length);  // Saída: 13
+
+// Maiúsculas e Minúsculas
+Console.WriteLine(texto.ToUpper());  // Saída: C# É INCRÍVEL!
+Console.WriteLine(texto.ToLower());  // Saída: c# é incrível!
+```
+
+## 4. Caracteres Especiais em Strings
+
+Em C#, alguns **caracteres especiais** são representados com uma `\` (barra invertida):
+
+| Código  | Significado                          |
+|---------|--------------------------------------|
+| `\n`    | Nova linha                           |
+| `\t`    | Tabulação                            |
+| `\\`    | Barra invertida                      |
+| `\"`    | Aspas duplas dentro de uma string   |
+
+### **Exemplo de Caracteres Especiais:**
+```csharp
+string textoEspecial = "Olá,\nBem-vindo ao C#!";
+Console.WriteLine(textoEspecial);
+/*
+Saída:
+Olá,
+Bem-vindo ao C#!
+*/
+```
+## **Conclusão**
+
+✅ **`char`** é usado para armazenar **um único caractere**.  
+✅ **`string`** é usado para armazenar **textos completos**.  
+✅ Podemos **manipular strings** de várias formas (*concatenação, interpolação, tamanho, maiúsculas/minúsculas*).  
+✅ **Caracteres especiais** ajudam a **formatar textos**.
+
+# **Operações com Strings e Char em C#**
+
+Em C#, podemos realizar diversas operações com **strings** e **char**, como:
+
+## **1. Concatenação de Strings**
+A concatenação é o processo de unir duas ou mais strings.
+
+```csharp
+string nome = "Adailson";
+string sobrenome = "Junior";
+string nomeCompleto = nome + " " + sobrenome;
+Console.WriteLine(nomeCompleto); // Saída: Adailson Junior
+```
+
+2. Interpolação de Strings
+A interpolação permite inserir variáveis dentro de uma string de forma mais legível.
+
+```csharp
+string cidade = "Aracaju";
+Console.WriteLine($"Eu moro em {cidade}."); // Saída: Eu moro em Aracaju.
+```
+3. Comparação de Strings
+Podemos comparar duas strings usando == ou o método Equals().
+
+
+```csharp
+string texto1 = "C#";
+string texto2 = "C#";
+
+Console.WriteLine(texto1 == texto2);       // Saída: True
+Console.WriteLine(texto1.Equals(texto2));  // Saída: True
+```
+4. Verificação de Substring
+Podemos verificar se uma string contém um determinado texto usando Contains().
+
+```csharp
+string frase = "C# é incrível!";
+Console.WriteLine(frase.Contains("incrível")); // Saída: True
+```
+
+5. Obter o Tamanho da String
+Podemos obter o número de caracteres de uma string usando a propriedade Length.
+
+```csharp
+string texto = "C# é incrível!";
+Console.WriteLine(texto.Length); // Saída: 13
+```
+
+6. Transformação de Strings
+Podemos converter uma string para maiúsculas ou minúsculas usando ToUpper() e ToLower().
+
+```csharp
+string texto = "C# é Incrível!";
+Console.WriteLine(texto.ToUpper()); // Saída: C# É INCRÍVEL!
+Console.WriteLine(texto.ToLower()); // Saída: c# é incrível!
+```
+
+7. Substituição de Caracteres
+Podemos substituir parte de uma string usando Replace().
+
+```csharp
+string mensagem = "Olá, Mundo!";
+string novaMensagem = mensagem.Replace("Mundo", "C#");
+Console.WriteLine(novaMensagem); // Saída: Olá, C#!
+```
+
+8. Quebrando Strings (Split)
+Podemos dividir uma string em partes menores usando Split().
+
+```csharp
+string lista = "Maçã, Banana, Laranja";
+string[] frutas = lista.Split(',');
+
+Console.WriteLine(frutas[0]); // Saída: Maçã
+Console.WriteLine(frutas[1]); // Saída: Banana
+Console.WriteLine(frutas[2]); // Saída: Laranja
+```
+
+9. Extraindo Parte de uma String (Substring)
+Podemos pegar parte de uma string usando Substring().
+
+```csharp
+string texto = "C# é incrível!";
+string parte = texto.Substring(4, 8); // Começa no índice 4 e pega 8 caracteres
+Console.WriteLine(parte); // Saída: é incrível
+```
+
+10. Trabalhando com char
+Podemos converter uma string para um array de caracteres e acessar elementos individuais.
+
+```csharp
+string palavra = "CSharp";
+char primeiraLetra = palavra[0];
+Console.WriteLine(primeiraLetra); // Saída: C
+```
+
+Conclusão
+✅ Podemos realizar diversas operações com strings e caracteres.
+✅ Métodos como ToUpper(), ToLower(), Replace(), Substring(), Split() ajudam a manipular strings.
+✅ O tipo char armazena apenas um único caractere e pode ser acessado dentro de uma string por índice.
+

@@ -1,0 +1,15 @@
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\bin\Debug\net8.0\TiposDeTexto.exe
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\bin\Debug\net8.0\TiposDeTexto.deps.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\bin\Debug\net8.0\TiposDeTexto.runtimeconfig.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\bin\Debug\net8.0\TiposDeTexto.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\bin\Debug\net8.0\TiposDeTexto.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\TiposDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\TiposDeTexto.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\TiposDeTexto.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\TiposDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\TiposDeTexto.sourcelink.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\TiposDeTexto.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\refint\TiposDeTexto.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\TiposDeTexto.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\TiposDeTexto.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\TiposDeTexto\TiposDeTexto\obj\Debug\net8.0\ref\TiposDeTexto.dll
