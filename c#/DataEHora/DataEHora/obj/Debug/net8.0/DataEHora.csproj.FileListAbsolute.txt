@@ -1,0 +1,15 @@
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.exe
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.deps.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.runtimeconfig.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.sourcelink.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\refint\DataEHora.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\DataEHora\DataEHora\obj\Debug\net8.0\ref\DataEHora.dll
