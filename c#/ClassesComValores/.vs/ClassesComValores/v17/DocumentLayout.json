@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junio\\OneDrive\\Documentos\\Dev\\TechNotes\\c#\\ClassesComValores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5736132D-0EFB-43A5-B29A-3189F085447D}|ClassesComValores\\ClassesComValores.csproj|c:\\users\\junio\\onedrive\\documentos\\dev\\technotes\\c#\\classescomvalores\\classescomvalores\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736132D-0EFB-43A5-B29A-3189F085447D}|ClassesComValores\\ClassesComValores.csproj|solutionrelative:classescomvalores\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736132D-0EFB-43A5-B29A-3189F085447D}|ClassesComValores\\ClassesComValores.csproj|c:\\users\\junio\\onedrive\\documentos\\dev\\technotes\\c#\\classescomvalores\\classescomvalores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736132D-0EFB-43A5-B29A-3189F085447D}|ClassesComValores\\ClassesComValores.csproj|solutionrelative:classescomvalores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5736132D-0EFB-43A5-B29A-3189F085447D}|ClassesComValores\\ClassesComValores.csproj|c:\\users\\junio\\onedrive\\documentos\\dev\\technotes\\c#\\classescomvalores\\classescomvalores\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5736132D-0EFB-43A5-B29A-3189F085447D}|ClassesComValores\\ClassesComValores.csproj|solutionrelative:classescomvalores\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "carro.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Dev\\TechNotes\\c#\\ClassesComValores\\ClassesComValores\\carro.cs",
+              "RelativeDocumentMoniker": "ClassesComValores\\carro.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Dev\\TechNotes\\c#\\ClassesComValores\\ClassesComValores\\carro.cs",
+              "RelativeToolTip": "ClassesComValores\\carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAADPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:03:10.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cor.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Dev\\TechNotes\\c#\\ClassesComValores\\ClassesComValores\\cor.cs",
+              "RelativeDocumentMoniker": "ClassesComValores\\cor.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Dev\\TechNotes\\c#\\ClassesComValores\\ClassesComValores\\cor.cs",
+              "RelativeToolTip": "ClassesComValores\\cor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:07:51.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Dev\\TechNotes\\c#\\ClassesComValores\\ClassesComValores\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesComValores\\Program.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Dev\\TechNotes\\c#\\ClassesComValores\\ClassesComValores\\Program.cs",
+              "RelativeToolTip": "ClassesComValores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:58:01.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

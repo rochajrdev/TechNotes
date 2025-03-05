@@ -1,0 +1,15 @@
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\bin\Debug\net8.0\ClassesComValores.exe
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\bin\Debug\net8.0\ClassesComValores.deps.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\bin\Debug\net8.0\ClassesComValores.runtimeconfig.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\bin\Debug\net8.0\ClassesComValores.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\bin\Debug\net8.0\ClassesComValores.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\ClassesComValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\ClassesComValores.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\ClassesComValores.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\ClassesComValores.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\ClassesComValores.sourcelink.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\ClassesComValores.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\refint\ClassesComValores.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\ClassesComValores.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\ClassesComValores.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\ClassesComValores\ClassesComValores\obj\Debug\net8.0\ref\ClassesComValores.dll
