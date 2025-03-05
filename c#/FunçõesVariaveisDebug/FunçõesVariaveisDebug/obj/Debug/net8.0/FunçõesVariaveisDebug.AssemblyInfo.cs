@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunçõesVariaveisDebug")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1977573331beef345f7a9a17ff4656ba2335d935")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65b8ae03ac59133ac3fdf91eb7eb6aa4ed68112")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunçõesVariaveisDebug")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunçõesVariaveisDebug")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
