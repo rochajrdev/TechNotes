@@ -1,0 +1,15 @@
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\bin\Debug\net8.0\FunçõesVariaveisDebug.exe
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\bin\Debug\net8.0\FunçõesVariaveisDebug.deps.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\bin\Debug\net8.0\FunçõesVariaveisDebug.runtimeconfig.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\bin\Debug\net8.0\FunçõesVariaveisDebug.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\bin\Debug\net8.0\FunçõesVariaveisDebug.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\FunçõesVariaveisDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\FunçõesVariaveisDebug.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\FunçõesVariaveisDebug.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\FunçõesVariaveisDebug.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\FunçõesVariaveisDebug.sourcelink.json
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\FunçõesVariaveisDebug.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\refint\FunçõesVariaveisDebug.dll
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\FunçõesVariaveisDebug.pdb
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\FunçõesVariaveisDebug.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Documentos\Dev\TechNotes\c#\FunçõesVariaveisDebug\FunçõesVariaveisDebug\obj\Debug\net8.0\ref\FunçõesVariaveisDebug.dll
