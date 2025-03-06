@@ -5,7 +5,7 @@
 
 Descrição da imagem abaixo.
 
-![alt text](image.png)
+![alt text](1introdução.png)
 
 Figura 1 - Sistema Gerenciador de Banco de Dados (SGBD)
 
